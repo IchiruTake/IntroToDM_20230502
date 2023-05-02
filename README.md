@@ -12,7 +12,7 @@ To run this projram, you must
 
 
 ## Credits
-ITITIU19031 – Phạm Hoàng Minh (Leader)
-ITITIU19143 – Lê Nguyễn Anh Khoa
-ITITIU19033 – Vũ Hoàng Nam
-ITITIU18202 – Ksor Lý Tiểu Dũng
+1. ITITIU19031 – Phạm Hoàng Minh (Leader)
+2. ITITIU19143 – Lê Nguyễn Anh Khoa
+3. ITITIU19033 – Vũ Hoàng Nam
+4. ITITIU18202 – Ksor Lý Tiểu Dũng
