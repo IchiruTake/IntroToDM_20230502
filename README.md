@@ -7,8 +7,8 @@ To run this projram, you must
 3. Open the project and cd to the src: `cd .\src`
 4. Compile the program: `javac .\DataPreprocessing.java .\ArgumentParser.java .\Train_RandomForest.java .\Test_RandomForest.java`
 5. Enjoy the project. If the absolute path has spacing, add the ' or " to the path.
- - Train: java Train_RandomForest ..\data\HepatitisCdata_v2_processed.arff  --output=..\model\RandomForest_v1.model
- - Test: java Test_RandomForest ..\data\HepatitisCdata_v2_processed.arff ..\model\RandomForest_v1.model  --output="D:\Minh\Books\Program\Major Courses\Introduction to Data Mining\Laboratory\Project (04)\project\model\testdata.arff"
+ - Train: `java Train_RandomForest ..\data\HepatitisCdata_v2_processed.arff  --output=..\model\RandomForest_v1.model`
+ - Test: `java Test_RandomForest ..\data\HepatitisCdata_v2_processed.arff ..\model\RandomForest_v1.model  --output="D:\Minh\Books\Program\Major Courses\Introduction to Data Mining\Laboratory\Project (04)\project\model\testdata.arff"`
 
 
 ## Credits
